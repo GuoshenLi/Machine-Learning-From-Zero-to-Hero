@@ -9,7 +9,7 @@ Some example codes of widely used machine learning algorithms
 The original data looks like this:
 
 ![The Original Data](https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/svm/data_linear.png)
-
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/svm/data_linear.png width = '200' height = '200'/><br/>
 
 After training the SVM with a linear kernel, we can get the following decision boundary:
 
