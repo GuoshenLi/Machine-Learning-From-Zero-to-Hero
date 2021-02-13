@@ -22,6 +22,4 @@ The original data looks like this:
 
 After training the SVM with a Gaussian kernel, we can get the following decision boundary:
 
-
-![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
  
