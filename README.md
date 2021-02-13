@@ -1,8 +1,6 @@
+
 # Machine-Learning-From-Zero-to-Hero
 Some example codes of widely used machine learning algorithms
-
-
-
 
 
 ## Support Vector Machine (Using SMO Algo to Optimize)
@@ -24,4 +22,6 @@ The original data looks like this:
 
 After training the SVM with a Gaussian kernel, we can get the following decision boundary:
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/svm/svm_gaussian.png width = '642' height = '342'/><br/>
+
+![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
+ 
