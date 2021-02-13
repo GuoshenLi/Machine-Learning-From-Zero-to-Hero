@@ -20,8 +20,8 @@ After training the SVM with a linear kernel, we can get the following decision b
 
 The original data looks like this:
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/svm/data_Gaussian.png width = '642' height = '342'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/svm/data_gaussian.png width = '642' height = '342'/><br/>
 
 After training the SVM with a linear kernel, we can get the following decision boundary:
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/svm/svm_Gaussian.png width = '642' height = '342'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/svm/svm_gaussian.png width = '642' height = '342'/><br/>
