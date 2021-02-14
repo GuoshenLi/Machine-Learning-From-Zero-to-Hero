@@ -11,8 +11,9 @@ After running gradient descent or normal equation:
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/Linear_Regression/linear_reg1.png width = '642' height = '342'/><br/>
 
+The contour of the cost function:
 
-
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/Linear_Regression/contour_cost.png width = '642' height = '342'/><br/>
 
 ## Support Vector Machine (Using SMO Algo to Optimize)
 
