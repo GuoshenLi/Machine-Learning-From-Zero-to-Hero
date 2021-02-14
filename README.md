@@ -2,12 +2,12 @@
 # Machine-Learning-From-Zero-to-Hero
 Some example codes of widely used machine learning algorithms
 
-### Linear Regression
+## Linear Regression
 The original data looks like this:
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/Linear_Regression/data1.png width = '642' height = '342'/><br/>
 
-After running gradient descent:
+After running gradient descent or normal equation:
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/Linear_Regression/linear_reg1.png width = '642' height = '342'/><br/>
 
