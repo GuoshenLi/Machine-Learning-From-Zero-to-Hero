@@ -55,10 +55,10 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 
 ### 2D-1D
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/pca/2d_1d_line.png width = '642' height = '342'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/pca/2d_1d_line.png width = '642' height = '642'/><br/>
 
 ### EigenFaces
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/pca/original_faces.png width = '642' height = '342'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/pca/original_faces.png width = '642' height = '642'/><br/>
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/pca/recovered_faces.png width = '642' height = '342'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/pca/recovered_faces.png width = '642' height = '642'/><br/>
