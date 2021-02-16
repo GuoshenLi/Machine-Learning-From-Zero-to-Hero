@@ -36,3 +36,16 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/svm/svm_gaussian.png width = '642' height = '342'/><br/>
+
+
+
+## K-Means
+
+### 2D clustering
+The original data looks like this:
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/kmeans/three_class.png width = '642' height = '342'/><br/>
+
+### Image Compression (From Original 0 ~ 255 (8bit) to 0 ~ 16 (4bit))
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/kmeans/image_compression.png width = '642' height = '342'/><br/>
