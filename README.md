@@ -42,7 +42,6 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 ## K-Means
 
 ### 2D clustering
-The original data looks like this:
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/kmeans/three_class.png width = '642' height = '342'/><br/>
 
