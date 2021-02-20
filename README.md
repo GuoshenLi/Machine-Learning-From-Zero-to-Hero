@@ -62,3 +62,15 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/pca/original_faces.png width = '642' height = '642'/><br/>
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/pca/recovered_faces.png width = '642' height = '642'/><br/>
+
+
+
+## Gaussian Mixture Model
+
+### Visualize the clusters
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/GMM/GMM_Contour.png width = '642' height = '342'/><br/>
+
+### The loglikelihood
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/GMM/GMM_loglikelihood.png width = '642' height = '342'/><br/>
