@@ -73,4 +73,4 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 
 ### The loglikelihood
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/GMM/GMM_loglikelihood.png width = '642' height = '342'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/GMM/GMM_likelihood.png width = '642' height = '342'/><br/>
