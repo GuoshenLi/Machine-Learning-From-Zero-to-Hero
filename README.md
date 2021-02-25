@@ -74,3 +74,19 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 ### The loglikelihood
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/GMM/GMM_likelihood.png width = '642' height = '342'/><br/>
+
+
+
+
+## Neural Network
+
+### Visualize the decision boundary
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/neural_network/Neural Network Decision Boundary.png width = '642' height = '342'/><br/>
+
+### The loss and training acc
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/neural_network/cost function.png width = '642' height = '642'/><br/>
+
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/neural_network/train_acc.png width = '642' height = '642'/><br/>
