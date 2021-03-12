@@ -76,8 +76,6 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/GMM/GMM_likelihood.png width = '642' height = '442'/><br/>
 
 
-
-
 ## Neural Network
 
 ### Visualize the decision boundary
@@ -90,3 +88,19 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/neural_network/train_acc.png width = '642' height = '442'/><br/>
+
+
+# (Fully Convolutional Neural Network) U-Net-Based-Heart-Sound-Segmentation
+
+This is the project that I done in the lab during my undergraduate study.
+
+A given heart sound can be segment into four stages which is shown as below:
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/U-Net-Heart-Sound/1.png width = '542' height = '280'/><br/>
+
+Our goal is to train a deep neural network to segment a given heart sound into 4 stages.
+
+The architecture that we use is 1-D U-Net used in the literature.
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/U-Net-Heart-Sound/2.png width = '542' height = '280'/><br/>
+
