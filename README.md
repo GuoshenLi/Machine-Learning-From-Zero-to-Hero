@@ -84,10 +84,10 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 
 ### The loss and training acc
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/neural_network/cost_function.png width = '642' height = '442'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/neural_network/cost_function.png width = '742' height = '442'/><br/>
 
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/neural_network/train_acc.png width = '642' height = '442'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/neural_network/train_acc.png width = '742' height = '442'/><br/>
 
 
 # (Fully Convolutional Neural Network) U-Net-Based-Heart-Sound-Segmentation
