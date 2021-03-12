@@ -102,5 +102,5 @@ Our goal is to train a deep neural network to segment a given heart sound into 4
 
 The architecture that we use is 1-D U-Net used in the literature.
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/U-Net-Heart-Sound/2.png width = '542' height = '280'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/U-Net-Heart-Sound/2.png width = '742' height = '280'/><br/>
 
