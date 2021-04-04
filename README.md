@@ -92,7 +92,7 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 # MCMC sampling
 
 
-<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/MCMC/mcmc.png width = '742' height = '442'/><br/>
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/MCMC/mcmc.png width = '695' height = '516'/><br/>
 
 
 # (Fully Convolutional Neural Network) U-Net-Based-Heart-Sound-Segmentation
