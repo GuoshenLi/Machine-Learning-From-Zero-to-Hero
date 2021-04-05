@@ -94,6 +94,9 @@ After training the SVM with a Gaussian kernel, we can get the following decision
 
 <img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/MCMC/mcmc.png width = '695' height = '516'/><br/>
 
+# Bayesian Linear Regression
+
+<img src = https://github.com/GuoshenLi/Machine-Learning-From-Zero-to-Hero/blob/main/bayesian_regression/bayesian_reg.png width = '516' height = '516'/><br/>
 
 # (Fully Convolutional Neural Network) U-Net-Based-Heart-Sound-Segmentation
 
